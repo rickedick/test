@@ -9,4 +9,5 @@
       print_r($version);
   echo '</pre>';
   echo 'kuken';
+  echo 'ballaballa';
 ?>
